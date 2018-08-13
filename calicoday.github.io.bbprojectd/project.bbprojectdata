@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>62B7C25C-53A5-4D67-9628-09A7E352A995</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>62B7C25C-53A5-4D67-9628-09A7E352A995</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va4wDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAiAIAAAUAAAABAQAAVXNlcnMA
+				AAADAAAAAQEAAGNhbAADAAAAAQEAAGRldgAGAAAAAQEA
+				AGdpdGh1YgAAEwAAAAEBAABjYWxpY29kYXkuZ2l0aHVi
+				LmlvABQAAAABBgAABAAAABQAAAAgAAAALAAAADwAAAAI
+				AAAABAMAAOIwBgAAAAAACAAAAAQDAAAYHiQAAgAAAAgA
+				AAAEAwAADjEkAAIAAAAIAAAABAMAAHXRNgACAAAACAAA
+				AAQDAABAAWYAAgAAABQAAAABBgAAdAAAAIQAAACUAAAA
+				pAAAALQAAAAIAAAAAAQAAEHAkQ/yi2vXGAAAAAECAAAC
+				AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAEAAAAAwMAAAMA
+				AAAEAAAAAwMAAPkBAAAIAAAAAQkAAGZpbGU6Ly8vDAAA
+				AAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACwYG50AAAA
+				CAAAAAAEAABBvTCybQAAACQAAAABAQAARjY2NTA4NTYt
+				NDE1RC0zRkUxLUI5QTktN0ZDNkEzNkM4OEExGAAAAAEC
+				AACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEA
+				AC8AAAAAAAAAAQUAALQAAAABAgAAMmFlNzc2NmU3MTgx
+				ZDM5OWI2NjY4NTY5OTQ4YmU3ZmUzNGExN2NiNjswMDAw
+				MDAwMDswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+				bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAx
+				OzAxMDAwMDA0OzAwMDAwMDAyMDA2NjAxNDA7L3VzZXJz
+				L2NhbC9kZXYvZ2l0aHViL2NhbGljb2RheS5naXRodWIu
+				aW8AzAAAAP7///8BAAAAAAAAABAAAAAEEAAAWAAAAAAA
+				AAAFEAAAxAAAAAAAAAAQEAAA8AAAAAAAAABAEAAA4AAA
+				AAAAAAACIAAAuAEAAAAAAAAFIAAAKAEAAAAAAAAQIAAA
+				OAEAAAAAAAARIAAAbAEAAAAAAAASIAAATAEAAAAAAAAT
+				IAAAXAEAAAAAAAAgIAAAmAEAAAAAAAAwIAAAxAEAAAAA
+				AAABwAAAEAEAAAAAAAARwAAAFAAAAAAAAAASwAAAHAEA
+				AAAAAACA8AAAzAEAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/cal/dev/github/calicoday.github.io/</string>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>calicoday.github.io</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
